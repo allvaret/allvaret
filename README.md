@@ -1,83 +1,36 @@
-# Hello, I hope you are doing well 👋
+# Hello, I'm Alvaro 👋 I hope you're doing well!
 
-Alvaro enjoys building software that is carefully designed before it's implemented  
+Computer Science student focused on **Software Engineering and Artificial Intelligence**.
 
-Here you'll find projects focused on software architecture, intelligent document processing, artificial intelligence and practical solutions to real-world problems.
+I enjoy understanding problems before implementing them and choosing technologies based on the problem rather than the technology itself.
 
-[LinkedIn](https://www.linkedin.com/in/alvaro-danko)  • alvarodanko032@gmail.com • [Document parsing pipeline](https://github.com/allvaret/Document_Parsing_Pipeline)
+My projects explore **software architecture, intelligent document processing, machine learning and practical applications**.
 
-## About me
+[LinkedIn](https://www.linkedin.com/in/alvaro-danko) • [alvarodanko032@gmail.com](mailto:alvarodanko032@gmail.com)
 
-I enjoy understanding a problem before thinking about its implementation.
-Usually don't like building projects just to use a technology. I prefer choosing technologies that best solve the problem.
-
-My projects focus on building complete software rather than isolated features, combining modular architecture, clean code and practical problem-solving.
-
-I'm particularly interested in Software Engineering and Artificial Intelligence, especially where intelligent systems meet real-world applications.
-
-This GitHub is where I document that journey through projects, experiments and continuous learning.
-
-## Selected Projects
+## Featured Projects
 
 ### 📄 Financial Report Processing Pipeline
 
-A modular pipeline that reconstructs the logical structure of financial reports, extracts relevant information and prepares it for Large Language Models.
+Modular pipeline for reconstructing financial reports, extracting relevant information and preparing structured data for LLMs.
 
-**Highlights**
-- Modular architecture
-- PDF parsing
-- Intelligent section reconstruction
-- Information extraction
-- LLM-ready output
-
-**Tech** 
-Python • PyMuPDF • spaCy • LLMs
-
----
+**Python • PyMuPDF • spaCy • LLMs**
 
 ### 🎮 2D Educational Game
 
-Complete Java game developed with LibGDX, exploring object-oriented programming, game architecture and asset management.
+Complete Java game exploring object-oriented programming, modular architecture, game loops, physics and asset management.
 
-**Highlights**
-- Game loop
-- Physics
-- Modular architecture
-- Sprite management
+**Java • LibGDX • LWJGL**
 
-**Tech**
-Java • LibGDX • LWJGL
+### 🧠 Transfer Learning & ML Adaptations
 
----
+Neural network projects involving transfer learning, custom architectures, dataset preparation and model evaluation.
 
-### 🧠 Transfer Learning
+**Python • TensorFlow • Keras • NumPy • Matplotlib**
 
-Image classification pipeline using transfer learning with TensorFlow, including preprocessing, training and evaluation.
+## Tech Stack
 
-**Highlights**
-- Transfer learning from model "VGG16"
-- Confusion Matrix + Roc Curve to analyze the results
-
-**Tech**
-Python • TensorFlow • Keras • Matplotlib • NumPy • Google Colab
-
-## Building With
-
-### Languages
- 
-🐍 Python |☕Java | 🟨 JavaScript | 🐘 SQL
-
-### Software Engineering
-
-- Object-Oriented Programming
-- Structured programming
-- Modular Architecture
-- Git
-
-**Artificial Intelligence & Data**
-
-Pandas | NumPy | scikit-learn | TensorFlow | spaCy | LLMs
-
-**Currently Learning**
-
-FastAPI | Docker | Testing | AI Agents
+**Languages:** Python • Java • JavaScript • SQL
+**AI & Data:** Pandas • NumPy • scikit-learn • TensorFlow • spaCy • LLMs
+**Engineering:** Git • Modular Architecture • OOP
+**Currently learning:** FastAPI • React • Docker • Testing • AI Agents
