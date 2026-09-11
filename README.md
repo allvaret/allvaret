@@ -8,29 +8,37 @@ My projects explore **software architecture, intelligent document processing, ma
 
 [LinkedIn](https://www.linkedin.com/in/alvaro-danko) • [alvarodanko032@gmail.com](mailto:alvarodanko032@gmail.com)
 
+## Tech Stack
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Python • Java • JavaScript • SQL |
+| **AI & Data** | Pandas • NumPy • scikit-learn • TensorFlow/Pytorch • OpenCV • Matplotlib • spaCy • LLMs |
+| **Backend & Engineering** | FastAPI • Git • Modular Architecture • OOP |
+| **Frontend** | React • HTML • CSS |
+| **Currently learning** | Docker • Testing • AI Agents |
+
 ## Featured Projects
 
-### 📄 Financial Report Processing Pipeline
+### 📄 [Financial Report Processing Pipeline](https://github.com/allvaret/Document_Parsing_Pipeline)
 
 Modular pipeline for reconstructing financial reports, extracting relevant information and preparing structured data for LLMs.
 
-**Python • PyMuPDF • spaCy • LLMs**
+**Python • PyMuPDF • spaCy • LLMs • FastAPI**
 
-### 🎮 2D Educational Game
+### 🧠 Transfer Learning & ML Adaptations
+
+Neural network projects involving transfer learning, custom architectures, dataset preparation and model evaluation.  
+#### My favorite:  
+[Image-based recommendation system using visual embeddings](https://github.com/allvaret/embeddings_similarity_recommendation)   
+
+**Python • TensorFlow • Pytorch • NumPy • Matplotlib • Pandas • Pillow • OpenCV**
+
+### 🎮 [2D Educational Game](https://github.com/allvaret/CleanCity)
 
 Complete Java game exploring object-oriented programming, modular architecture, game loops, physics and asset management.
 
 **Java • LibGDX • LWJGL**
 
-### 🧠 Transfer Learning & ML Adaptations
 
-Neural network projects involving transfer learning, custom architectures, dataset preparation and model evaluation.
 
-**Python • TensorFlow • Keras • NumPy • Matplotlib**
-
-## Tech Stack
-
-**Languages:** Python • Java • JavaScript • SQL
-**AI & Data:** Pandas • NumPy • scikit-learn • TensorFlow • spaCy • LLMs
-**Engineering:** Git • Modular Architecture • OOP
-**Currently learning:** FastAPI • React • Docker • Testing • AI Agents
